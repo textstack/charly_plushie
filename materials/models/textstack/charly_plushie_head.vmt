@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/textstack/charly_plushie_head"
+
+	//$phong 1
+	//$phongboost "1.0"
+	//$basemapalphaphongmask 1
+	//$phongexponent "0.1"
+	//$phongtint "[2 1 1]"
+	//$phongfresnelranges "[0.05 0.5 1]"
+	
+	$rimlight 1
+	$rimlightboost "0.4"
+	$rimlightexponent 1
+
+	$model 1
+}
